@@ -1,0 +1,10 @@
+*.ipynb_checkpoints
+*__pycache__*
+
+# exlude data, because generated with GMAPS Api
+data/*
+
+# own folder for social media image fancy stuff
+reports/*
+
+.env
